@@ -47,6 +47,3 @@ Packaged using:
 
 ---
 
-## 📦 How to Run
-
-### Option 1 — Run the JAR  
